@@ -45,6 +45,7 @@ Fit the model and predict the sample input.
 ## Network model
 
 
+
 ## PROGRAM
 
 ### Import required libraries
@@ -220,8 +221,6 @@ plt.show()
 ![image](https://github.com/vincent-isaac/malaria-cell-recognition/assets/75234588/0c11941e-8866-4f5e-9693-47dfde3ae06d)
 
 ### New Sample Data Prediction
-
-![Uploading image.png…]()
 
 
 ## RESULT
