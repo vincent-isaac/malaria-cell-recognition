@@ -221,5 +221,12 @@ plt.show()
 ### Confusion Matrix
 ![image](https://github.com/vincent-isaac/malaria-cell-recognition/assets/75234588/0c11941e-8866-4f5e-9693-47dfde3ae06d)
 
+### New Sample Data Prediction
+
+![image](https://github.com/vincent-isaac/malaria-cell-recognition/assets/75234588/f19f8b62-a25f-4be3-a5a9-24e8dd83373b)
+
+![image](https://github.com/vincent-isaac/malaria-cell-recognition/assets/75234588/5d3ecbee-3a7e-4b06-b102-f40def7ab192)
+
+
 ## RESULT
 Thus, a deep neural network for Malaria infected cell recognition is developed and the performance is analyzed.
